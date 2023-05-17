@@ -1,0 +1,29 @@
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.fsproj.AssemblyReference.cache
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.AssemblyInfoInputs.cache
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.AssemblyInfo.fs
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.fsproj.CoreCompileInputs.cache
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/Fibonacci Sequence
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/Fibonacci Sequence.deps.json
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/Fibonacci Sequence.runtimeconfig.json
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/Fibonacci Sequence.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/Fibonacci Sequence.pdb
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/FSharp.Core.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/cs/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/de/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/es/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/fr/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/it/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/ja/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/ko/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/pl/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/pt-BR/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/ru/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/tr/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/zh-Hans/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/bin/Debug/net7.0/zh-Hant/FSharp.Core.resources.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.fsproj.CopyComplete
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/refint/Fibonacci Sequence.dll
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.pdb
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/Fibonacci Sequence.genruntimeconfig.cache
+/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/obj/Debug/net7.0/ref/Fibonacci Sequence.dll

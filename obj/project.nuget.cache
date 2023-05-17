@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLzjsq5zV3RQCM4jyY2ZP0+5lsjUUf7n9Y8Bw2QHFjN3R9fZSjp/8yYc7tF5krL9MWBV1dCFSYqUdXG4PB70MA==",
+  "success": true,
+  "projectFilePath": "/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/FibonacciSequence/Fibonacci Sequence/Fibonacci Sequence/Fibonacci Sequence.fsproj",
+  "expectedPackageFiles": [
+    "/Users/laurenlira/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
